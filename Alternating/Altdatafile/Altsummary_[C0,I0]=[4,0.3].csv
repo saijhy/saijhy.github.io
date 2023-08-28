@@ -1,0 +1,2 @@
+TreatmentPeriod0,TreatmentPeriod1,TGFAmountTreatment,IFNAmountTreatment,CancerFreePeriod0,CancerFreePeriod1,RelapsePeriod0,RelapsePeriod1,TGFAmountRelapse,IFNAmountRelapse,RelapsePeriod,frequency,totTGFAmount,totIFNAmount
+0.0,10.91091091091091,3.0,11.465465465465464,10.0,17.57757757757758,17.57757757757758,31.945945945945947,4.0,8.0,11.328328328328332,0.08827427763541572,7.0,19.465465465465464
